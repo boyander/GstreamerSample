@@ -15,5 +15,5 @@ Developed by:
 	
 Bibliography
 ------------
-[GStreamer](http://gstreamer.freedesktop.org/)
-[H.264/MPEG-4 AVC](http://es.wikipedia.org/wiki/H.264/MPEG-4_AVC)
+ - [GStreamer](http://gstreamer.freedesktop.org/)
+ - [H.264/MPEG-4 AVC](http://es.wikipedia.org/wiki/H.264/MPEG-4_AVC)
