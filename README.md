@@ -1,15 +1,19 @@
-##This is a final project on subject of  "Emitters and Receivers"  @ UPC
+##This is a final project on subject of  "Equips de Vídeo"  @ UPC
 
 Developed by:
 ------------
-	- Jan Domènech
-	- Ana Olivé
-	- Marc Pomar Torres [boyander@gmail.com]
+	- Alberto Esteban Pérez
 	- Victor Hidalgo Lorenzo
-	- Helena Gallego Gamo
-
-
+	- Debora Riu
+	- Laura Cotrina Barrios
+	- Carolina Valiño Medina		
+	- Alex Ferrer Juan
+	- Sergi Ubach
+	- Margarita Ramón
+	- Daniel Sanchez
+	- Marc Pomar Torres [boyander@gmail.com]
+	
 Bibliography
 ------------
-- [WiiMote Bluetooth Communication](http://wiibrew.org/wiki/Wiimote)
-- [Arduino Projects in Eclipse](http://arduino.cc/playground/Code/Eclipse)
+[GStreamer](http://gstreamer.freedesktop.org/)
+[H.264/MPEG-4 AVC](http://es.wikipedia.org/wiki/H.264/MPEG-4_AVC)
